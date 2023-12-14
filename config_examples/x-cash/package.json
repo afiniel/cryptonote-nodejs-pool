@@ -21,7 +21,7 @@
 		"nodemailer": "2.7.2",
 		"nodemailer-sendmail-transport": "*",
 		"redis": "*",
-		"socket.io": "^3.0.5",
+		"socket.io": "^4.5.2",
 		"time-ago": "*",
 		"request": "^2.88.0",
 		"request-promise-native": "^1.0.5"
